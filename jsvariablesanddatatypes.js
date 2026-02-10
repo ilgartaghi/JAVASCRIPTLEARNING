@@ -36,5 +36,6 @@
 
 //*******Data types */
 
-let xy="hh";
-console.log(typeof(xy));
+// let xy="hh";
+// console.log(typeof(xy));
+
