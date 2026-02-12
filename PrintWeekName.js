@@ -1,4 +1,4 @@
-let weekno = 5;
+let weekno = 44;
 
 if(weekno==1)
 {
@@ -28,4 +28,8 @@ else if(weekno==6)
 else if(weekno==7)
 {
     console.log("Saturday");
+}
+else
+{
+    console.log("Invalid week number");
 }
